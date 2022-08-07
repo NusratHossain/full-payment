@@ -1,3 +1,4 @@
+// test comment
 function update_gl_entry(frm) {
 	let currency = frm.doc.currency;
 	let paid_amount_selected_currency = frm.doc.paid_amount_selected_currency;
