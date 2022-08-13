@@ -1,4 +1,4 @@
-// testing comment from home, hello from hom
+// testing comment from home, hello from home
 // 2nd commit
 // 3rd commit
 // test comment test comment
