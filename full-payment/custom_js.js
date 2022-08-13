@@ -1,7 +1,7 @@
 // testing comment from home
 // 2nd commit
 // 3rd commit
-// test comment
+// test comment test comment
 function update_gl_entry(frm) {
 	let currency = frm.doc.currency;
 	let paid_amount_selected_currency = frm.doc.paid_amount_selected_currency;
