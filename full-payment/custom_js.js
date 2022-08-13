@@ -1,3 +1,5 @@
+// testing comment from home
+
 // test comment
 function update_gl_entry(frm) {
 	let currency = frm.doc.currency;
